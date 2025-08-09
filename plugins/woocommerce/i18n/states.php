@@ -834,7 +834,8 @@ return array(
 		'WB' => __( 'West Bengal', 'woocommerce' ),
 		'AN' => __( 'Andaman and Nicobar Islands', 'woocommerce' ),
 		'CH' => __( 'Chandigarh', 'woocommerce' ),
-		'DH' => __( 'Dadra and Nagar Haveli and Daman and Diu', 'woocommerce' ), // New merged UT with code DH
+		'DN' => __( 'Dadra and Nagar Haveli', 'woocommerce' ),
+		'DD' => __( 'Daman and Diu', 'woocommerce' ),         
 		'DL' => __( 'Delhi', 'woocommerce' ),
 		'JK' => __( 'Jammu and Kashmir', 'woocommerce' ),
 		'LA' => __( 'Ladakh', 'woocommerce' ),
