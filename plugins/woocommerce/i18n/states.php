@@ -803,7 +803,7 @@ return array(
 		'WX' => __( 'Wexford', 'woocommerce' ),
 		'WW' => __( 'Wicklow', 'woocommerce' ),
 	),
-	'IN' => array(// Indian stats.
+	'IN' => array( // Indian states.
 		'AN' => __( 'Andaman and Nicobar Islands', 'woocommerce' ),
 		'AP' => __( 'Andhra Pradesh', 'woocommerce' ),
 		'AR' => __( 'Arunachal Pradesh', 'woocommerce' ),
@@ -813,8 +813,8 @@ return array(
 		'CH' => __( 'Chandigarh', 'woocommerce' ),
 		'CT' => __( 'Chhattisgarh', 'woocommerce' ),
 		'DD' => __( 'Daman and Diu', 'woocommerce' ),
+		'DH' => __( 'Dādra and Nagar Haveli and Damān and Diu', 'woocommerce' ),
 		'DL' => __( 'Delhi', 'woocommerce' ),
-		'DN' => __( 'Dadra and Nagar Haveli', 'woocommerce' ),
 		'GA' => __( 'Goa', 'woocommerce' ),
 		'GJ' => __( 'Gujarat', 'woocommerce' ),
 		'HP' => __( 'Himachal Pradesh', 'woocommerce' ),
@@ -839,7 +839,7 @@ return array(
 		'TN' => __( 'Tamil Nadu', 'woocommerce' ),
 		'TR' => __( 'Tripura', 'woocommerce' ),
 		'TS' => __( 'Telangana', 'woocommerce' ),
-		'UK' => __( 'Uttarakhand', 'woocommerce' ),
+		'UK' => __( 'Uttarākhand', 'woocommerce' ),
 		'UP' => __( 'Uttar Pradesh', 'woocommerce' ),
 		'UT' => __( 'Uttarakhand', 'woocommerce' ),
 		'WB' => __( 'West Bengal', 'woocommerce' ),
