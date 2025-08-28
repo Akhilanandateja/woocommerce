@@ -809,6 +809,7 @@ return array(
 		'AR' => __( 'Arunachal Pradesh', 'woocommerce' ),
 		'AS' => __( 'Assam', 'woocommerce' ),
 		'BR' => __( 'Bihar', 'woocommerce' ),
+		'CG' => __( 'Chhattisgarh', 'woocommerce' ),
 		'CH' => __( 'Chandigarh', 'woocommerce' ),
 		'CT' => __( 'Chhattisgarh', 'woocommerce' ),
 		'DD' => __( 'Daman and Diu', 'woocommerce' ),
