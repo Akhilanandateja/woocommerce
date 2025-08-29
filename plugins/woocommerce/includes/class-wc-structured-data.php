@@ -322,6 +322,7 @@ class WC_Structured_Data {
 				}
 				$markup_offer = array(
 					'@type'              => 'Offer',
+					'priceCurrency'      => $currency,
 					'priceSpecification' => array(
 						$unit_price_specification,
 					),
